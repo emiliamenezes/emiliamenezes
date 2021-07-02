@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 </table>
 </center> 
 
+<a href="https://www.linkedin.com/in/emilia-menezes"><img src="https://github.com/emiliamenezes/emiliamenezes/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/emilia-menezes)
+
 
