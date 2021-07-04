@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/emiliamenezes"><img src="https://cdn.jsdelivr.net/gh/emiliamenezes/emiliamenezes/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
 
-![](https://komarev.com/ghpvc/?username=emiliamenezes&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=emiliamenezes&color=green)
 
 
 
