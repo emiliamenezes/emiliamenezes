@@ -1,4 +1,5 @@
 ### Olá, boas vindas :) 👋
+<hr>
 
 <!--
 **emiliamenezes/emiliamenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
